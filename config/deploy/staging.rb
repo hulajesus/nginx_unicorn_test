@@ -1,0 +1,5 @@
+set :user, 'jesushula'
+set :domain, 'ubuntu'
+set :deploy_to, '/var/www/nginx_unicorn_test'
+set :repository, 'https://github.com/hulajesus/nginx_unicorn_test.git'
+set :branch, 'master'
